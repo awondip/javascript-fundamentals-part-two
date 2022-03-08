@@ -1,0 +1,1 @@
+// The relationship between null and undefined is that the both  stand and makes type of their own
